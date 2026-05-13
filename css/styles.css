@@ -1,0 +1,27 @@
+.caja {
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.encabezado {
+    font-size: 34px;
+    color: blue;
+    margin-bottom: 15px;
+}
+
+.cuerpo {
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.texto{
+    padding: 8px;
+    font-size: 14px;
+}
+
+.boton{
+    padding: 12px;
+    font-size: 14px;
+    background-color: aqua;
+}
